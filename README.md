@@ -1,2 +1,2 @@
 # Jackpot-machine
-My first game in Unity
+This is my Pokemon Jackpot Machine! I made this for a game event. 
